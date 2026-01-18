@@ -68,7 +68,7 @@ I’ve worked on **real client projects**, **healthcare applications**, and **sc
 - Spring AI + REST backend
 - Microservices-ready architecture
 
-👉 **More projects:** [https://github.com/karan-hub](https://github.com/karan-hub?tab=repositories)
+👉 **More projects:** [->](https://github.com/karan-hub?tab=repositories)
 
 ---
 
